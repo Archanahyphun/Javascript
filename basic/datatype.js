@@ -7,4 +7,6 @@
 
 console.log("Test");
 console.group("Archana");
+console.log(3*3);
+ console.group("Archana");
 
