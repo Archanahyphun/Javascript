@@ -13,6 +13,11 @@ console.log(3*3);
  let loggedin = false
  let state = null 
 
+ console.log(typeof age)
+ console.log(typeof name)
+ console.log(typeof loggedin)
+ console.log(typeof state)
+
  //  let state;  is undefined (value is not defined)
  //  let state = null    standalone value
  // Number => 2 to power 53
